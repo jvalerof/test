@@ -1,48 +1,39 @@
-# Foobar
+# Markdown Generalities
+Web page with many examples of how to create a good Markdown:
+https://pandao.github.io/editor.md/en.html
 
-Foobar is a Python library for dealing with word pluralization.
 
-## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```bash
-pip install foobar
-```
-
-## Usage
-
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-<!-- Tables -->
-![](<script src="https://gist.github.com/jvalerof/a81ef45737b915d9e681d00bfdc22763.js"></script>)
-
+## Including an video
+First to include the image url and next the video url:
 
 <script src="https://gist.github.com/jvalerof/a81ef45737b915d9e681d00bfdc22763.js"></script>
 [![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
 
+
+#Including tables
+Tables should be in the next style:
 ----
 | First Header  | Second Header |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
+To create this style automatically, it is recomended to use:
+1. Vistit the web page: https://ozh.github.io/ascii-tables/
+2. In input space paste the csv content.
+3. The web page setings should be:
+- Header Location: First Row.
+- Auto-Format: ok.
+- Output Style: Github Markdown.
+- Custom Separator: ,
+- Comment Style: "" (No comment style applied)
 
-+----------+------+-------------------------------------------------+
+4. The output will be paste like next:
+
+
+
 | District | CVPM |                   AGENCYNAME                    |
-+----------+------+-------------------------------------------------+
+|----------|------|-------------------------------------------------|
 | D02      | 21A  | Kern Delta Water District                       |
 | D03      | 21C  | Wheeler Ridge - Maricopa Water Storage District |
 | D04      | 19A  | West Kern Water District                        |
@@ -71,7 +62,6 @@ Please make sure to update tests as appropriate.
 | ot2      | 20   | North Kern Water Storage District               |
 | ot3      | 20   | Olcese Water District                           |
 | ot1      | 15B  | Dudley Ridge Water District                     |
-+----------+------+-------------------------------------------------+
 
 
 
