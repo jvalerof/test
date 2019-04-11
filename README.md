@@ -26,7 +26,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
-
-
-<script src="https://gist.github.com/jvalerof/a81ef45737b915d9e681d00bfdc22763.js"></script>
+![]()
