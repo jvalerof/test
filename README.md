@@ -26,4 +26,10 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## License
-![](test/district_codes.csv)
+<!-- Tables -->
+![](<script src="https://gist.github.com/jvalerof/a81ef45737b915d9e681d00bfdc22763.js"></script>)
+
+
+<script src="https://gist.github.com/jvalerof/a81ef45737b915d9e681d00bfdc22763.js"></script>
+
+[![Watch the video](https://www.youtube.com/watch?v=ID5rrL1U-xI)
