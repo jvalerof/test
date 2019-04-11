@@ -10,9 +10,10 @@ First to include the image url and next the video url:
 [![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
 
 
-#Including tables
-Tables should be in the next style:
-----
+# Including tables
+
+Tables should have the next style:
+
 | First Header  | Second Header |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
@@ -64,5 +65,3 @@ To create this style automatically, it is recomended to use:
 | ot1      | 15B  | Dudley Ridge Water District                     |
 
 
-
-https://gist.github.com/jvalerof/a81ef45737b915d9e681d00bfdc22763
