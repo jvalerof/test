@@ -1,5 +1,5 @@
 ![equation]()
 
-```math
+```math, eval=true
 SE = \frac{\sigma}{\sqrt{n}}
 ```
