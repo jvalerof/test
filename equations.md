@@ -15,7 +15,7 @@ Equation 2
 
 Equation 3
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;ecuacion" />
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;\sum_{m}xm_{g,m}\leq\:availwater\ast b_{water,g\:\forall g}" />
 
 Equation 4
 
