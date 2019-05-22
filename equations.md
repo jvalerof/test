@@ -5,6 +5,6 @@
 <img src="https://latex.codecogs.com/svg.latex?\Large&space;ecuacion" />
 
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;x= \frac{b}{3+2*d}" />
 
 <img src="https://latex.codecogs.com/svg.latex?\Large&space;d^{e}+54" />
