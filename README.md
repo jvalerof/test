@@ -10,6 +10,11 @@ First to include the image url and next the video url:
 [![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
 
 
+# Justify Text
+<div class=text-justify>
+Aqui se escribe el texto que sera justificado. Los siguientes caracteres son de ejemplo. kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk. 
+ </div> 
+
 # Including tables
 
 Tables should have the next style:
