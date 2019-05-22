@@ -3,3 +3,7 @@
 ```math, eval=true
 SE = \frac{\sigma}{\sqrt{n}}
 ```
+
+
+$\{x_i\}$
+$\\{x_i\\}$
