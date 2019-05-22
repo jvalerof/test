@@ -5,6 +5,6 @@
 <img src="https://latex.codecogs.com/svg.latex?\Large&space;ecuacion" />
 
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;Max_{x\geq 0}\prod = \sum_{g}\sum_{i}\nu_{gi}_\cdot Y_{gi}" />
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;Max_{x\geq 0}\prod = \sum_{g}" />
 
 <img src="https://latex.codecogs.com/svg.latex?\Large&space;d^{e}+54" />
