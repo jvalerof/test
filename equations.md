@@ -10,7 +10,7 @@ Equation 1
 
 Equation 2
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;\sum_{i}x_{gij}\leq\:b_{gi}\forall_{g,j}\epsilon\left\{{land,}\right{water}\}" />
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;\sum_{i}x_{gij}\leq\:b_{gi}\;forall_{g,j}\epsilon\left\{{land,}\right{water}\}" />
 
 
 Equation 3
