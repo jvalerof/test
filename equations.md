@@ -1,1 +1,1 @@
-![equation](https://latex.codecogs.com/gif.latex?1%2Bsin%28mc%5E2%29%0D%0A)
+<img src="https://latex.codecogs.com/gif.latex? P(s | O_t )=\text { Probability of a sensor reading value when sleep onset is observed at a time bin } t " />
