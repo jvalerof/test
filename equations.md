@@ -4,6 +4,15 @@ NO deben haber espacios entre los caracteres.
 
 <img src="https://latex.codecogs.com/svg.latex?\Large&space;ecuacion" />
 
+Equation 1
 <img src="https://latex.codecogs.com/svg.latex?\Large&space;Max_{x\geq0}\prod=\sum_{g}\sum_{i}\nu_{gi}Y_{gi}-\sum_{g}\sum_{i}_\delta_{gi}e^{\gamma_{gi}x_{gi,land}}-\sum_{g}\sum_{i}\sum_{j,j\neqland}\omega_{igi}x_{gij}" />
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;Max_{x\geq0}\prod=\sum_{g}\sum_{i}\nu_{gi}Y_{gi}-\sum_{g}\sum_{i}_\delta_{gi}\cdote^{\gamma_{gi}x_{gi,land}}-\sum_{g}\sum_{i}\sum_{j,j\neqland}_{\omega_{igi}x_{gij}}" />
+Equation 2
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;\sum_{i}x_{gij}\leq\b_{gi}\forall _{g,j}\epsilon\left\{land,water\right\}" />
+
+
+Equation 3
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;ecuacion" />
+
+Equation 4
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;ecuacion" />
