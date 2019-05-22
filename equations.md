@@ -19,4 +19,4 @@ Equation 3
 
 Equation 4
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;Y_{gi}=\tau _{gi}\left[\beta_{gi1}\ast\,X_{gi1}^{\rho\i}+\beta_{gi2}\ast\,X_{gi2}^{\rho\i}+...+\beta_{gij}\ast\,X_{gij}^{\rho\i}\]^{\frac{\upsilon}{\rho\i}}" />
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;Y_{gi}=\tau_{gi}\[\beta_{gi1}\ast\,X_{gi1}^{\rho\i}+\beta_{gi2}\ast\,X_{gi2}^{\rho\i}+...+\beta_{gij}\ast\,X_{gij}^{\rho\i}\]^{\frac{\upsilon}{\rho\i}}" />
