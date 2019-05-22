@@ -1,1 +1,3 @@
-<img src="https://latex.codecogs.com/gif.latex?P(s | O_t )=\text { Probability of a sensor reading value when sleep onset is observed at a time bin } t " />
+![equation]()
+
+![equation](https://www.codecogs.com/eqnedit.php?latex=d^{e}&plus;54" target="_blank"><img src="https://latex.codecogs.com/gif.latex?d^{e}&plus;54" title="d^{e}+54)
